@@ -1,0 +1,44 @@
+Body{
+    background-color: #3b214d; color: #ad7918;
+}
+p{
+    /*border: 1px solid;
+    width: 250px;*/
+    font-family: "Ink Free" ;
+}
+#para2{
+    color: #3b214d ;
+}
+h1{
+    border-style: solid;
+    border-style: groove;
+    border-color: #665233;
+    text-align: center;
+}
+img{;
+    float: left;
+    margin: 10px;
+;
+}
+.title{
+    font-family: "MV Boli";
+}
+
+#para1{
+	background-color: #44324d;
+    color: #ad7918;
+    opacity: 0.7;
+    text-align: center;
+    Font-size: 40px; 
+    text-decoration: normal ;
+    border-style: solid;
+    padding: 4px;
+  }
+div{
+    border: 1px solid;
+    height: 320px;
+}
+
+
+
+background-color: #44324d;
